@@ -1,0 +1,21 @@
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <title>JaoMusic.com</title>
+</head>
+
+<body>
+
+    <header>JAOMUSIC</header>
+
+    <b class="jaozin"><h1>Crentuê - É Salmo</h1></b>
+<p class="jaozin">#CRENTUÊ</p>
+
+
+<iframe class="jao" width="560" height="315" src="https://www.youtube.com/embed/a63jpBsVZYw?si=3iP663dzaljloK_p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<b class="jaozin"><h1>Eu tava por aí andando na minha bike...</h1><b></b>
+<p class="jaozin">#SUBACO</p>
+
+<iframe class="jao" width="560" height="315" src="https://www.youtube.com/embed/o0m_CarKgd0?si=Ec-Hv2H-DyI0lAy6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</body>
